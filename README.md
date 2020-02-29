@@ -7,7 +7,7 @@
  
 O **Genius_Game** é um projeto simples que utilizei para implementar conceitos de eletrônica com o Arduíno, o mesmo é um projeto do curso "Do zero ao jogo", na Alura Cursos.
 
-![Imagem](https://github.com/DouglasAugustoJunior/)
+![Imagem](https://github.com/DouglasAugustoJunior/Genius_Game/blob/master/Circuito.PNG?raw=true)
 
  
 Desenvolvido em C, ele traz uma forma para utilizar componentes como LEDs, resistores, buttons e buzzers.
